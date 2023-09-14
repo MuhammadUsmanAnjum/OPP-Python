@@ -86,8 +86,4 @@ print(Sum_result)
 
 
 
-#test
-
-
-
 
