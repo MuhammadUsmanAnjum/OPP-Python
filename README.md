@@ -1,8 +1,8 @@
 # OPP-Python
-Python Object Oriented Docs
+-Python Object Oriented Docs
 
-Four Pilars of OPP
+-Four Pilars of OPP
 
-Error Handling 
+-Error Handling 
 
-File Handlng
+-File Handlng
