@@ -1,13 +1,13 @@
-Abstraction is simplifying complex reality by focusing on the essential aspects and ignoring unnecessary details.
+# Abstraction is simplifying complex reality by focusing on the essential aspects and ignoring unnecessary details.
 
-For example, when using a smartphone, you interact with the user interface and functionalities it provides, without needing to understand the intricate technical details of how it works internally. Abstraction allows you to use the smartphone as a tool without needing to know everything about its internal components and processes.
+# For example, when using a smartphone, you interact with the user interface and functionalities it provides, without needing to understand the intricate technical details of how it works internally. Abstraction allows you to use the smartphone as a tool without needing to know everything about its internal components and processes.
 
 
-An abstract class is a class that cannot be instantiated directly and is meant to serve as a blueprint for other classes. It may contain both regular methods with implementations and abstract methods without implementations.
+# An abstract class is a class that cannot be instantiated directly and is meant to serve as a blueprint for other classes. It may contain both regular methods with implementations and abstract methods without implementations.
 
-Abstract methods are declared in the abstract class but lack any concrete code. Abstract methods act as placeholders and must be implemented by concrete (non-abstract) subclasses.
+# Abstract methods are declared in the abstract class but lack any concrete code. Abstract methods act as placeholders and must be implemented by concrete (non-abstract) subclasses.
 
-In Python, the concept of abstract classes and methods is not as rigid as in other languages. We need to use module "abc" for declaring these.
+# In Python, the concept of abstract classes and methods is not as rigid as in other languages. We need to use module "abc" for declaring these.
 
 
 
